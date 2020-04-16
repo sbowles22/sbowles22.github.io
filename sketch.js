@@ -1,4 +1,4 @@
-// Used the video provided to write this code
+// Used the video provided to write this code, most is copied from the github posted in the link as i dont use p5
 // https://www.youtube.com/watch?v=L-Lsfu4ab74
 
 var data = [];
@@ -6,12 +6,12 @@ var data = [];
 var m = 0;
 var b = 0;
 
-function setup() {
-  createCanvas(400, 400);
+function setup(x) {
+  createCanvas(Math.round(window.screen.width)-20, Math.round(window.screen.height / 2));
 }
 
 function gradientDescent() {
-  var learning_rate = 0.05;
+  var learning_rate = 0.1;
   for (var i = 0; i < data.length; i++) {
     var x = data[i].x;
     var y = data[i].y;

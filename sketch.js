@@ -3,7 +3,6 @@
 
 var data = []
 
-
 // Initialize line vars
 var m = 1;
 var b = 0.5;

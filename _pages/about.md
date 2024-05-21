@@ -19,4 +19,3 @@ social: true # includes social icons at the bottom of the page
 
 My name is Spencer Bowles, and I am a computer engineering student at Purdue West Lafayette. I am also pursuing minors in both Physics and Philosophy. My main interests are physical computing (or any non-von Neumann computing techniquess), semiconductor workforce development, computer architechture, and algorithms for VLSI/synthesis. I am currently working with Dr. Peter Bermel to [efficiently simulate noisy coherent Ising machines (CIMs) for combinatorial optimization](/blog/) through Purdue's SURF program.
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

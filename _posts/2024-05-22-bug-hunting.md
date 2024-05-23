@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nancy Drew 1, Secret of the Lost Matrix
-date: 2024-05-24 17:48:00
+date: 2024-05-22 17:48:00
 description: today we are hunting for an elusive bug
 tags: bug cimmi ga-meeting
 categories: surf
@@ -23,7 +23,6 @@ Afterwards, I tried several things, looked up all I could about the error, even 
 
 I now decided that I should verify that the code worked when compiling using a straight c++ compiler. Notably, it did not. Instead I was granted with a cocophony of "undefined reference to cimmi::utils::Matrix..." from both the `Graph` and `Network` classes. After trying a plethora of combinations for compiler arguments, I decided that I should keep trekking on through stack overflow. Eventually, I was able to fine [one post](https://stackoverflow.com/questions/8752837/undefined-reference-to-template-class-constructor) that knew what was going on. Man I love stack overflow.
 
-*Lesson learned: class templates belong in header files.*
+_Lesson learned: class templates belong in header files._
 
 Also it's 6:15, and I need to make a conference presentation and dinner, so I will stop at a win.
-

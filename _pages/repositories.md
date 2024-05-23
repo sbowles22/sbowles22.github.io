@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A set of choice repositories from yours truly. 
+description: A set of choice repositories from yours truly.
 nav: true
 nav_order: 4
 ---

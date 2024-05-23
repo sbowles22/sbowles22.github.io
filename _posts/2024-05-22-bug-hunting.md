@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nancy Drew 1: Secret of the Lost Matrix
+title: Nancy Drew 1, Secret of the Lost Matrix
 date: 2024-05-24 17:48:00
 description: today we are hunting for an elusive bug
 tags: bug cimmi ga-meeting

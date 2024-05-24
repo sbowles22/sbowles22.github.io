@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Affiliations. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,3 +18,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 My name is Spencer Bowles, and I am a computer engineering student at Purdue West Lafayette. I am also pursuing minors in both Physics and Philosophy. My main interests are physical computing (or any non-von Neumann computing techniquess), semiconductor workforce development, computer architechture, and algorithms for VLSI/synthesis. I am currently working with Dr. Peter Bermel to [efficiently simulate noisy coherent Ising machines (CIMs) for combinatorial optimization](/blog/) through Purdue's SURF program.
+
+Outside of SURF, I help Dr. Mark Johson with the design track of the Purdue STARS program. Additionally, I am working with Dr. Appenzeller on polymorphic logic.
